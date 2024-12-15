@@ -1,1 +1,1 @@
-This git repo contains api data related to the weather
+Data Analysis of the weather and the relationship between the coordinates in relation to the hemisphere. The analysis also outputs recommended resort and city locations to travel to based on your preferred weather conditions. 
