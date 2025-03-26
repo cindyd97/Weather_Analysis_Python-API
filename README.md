@@ -12,8 +12,8 @@ This part of the assignment utilizes the city data that was saved to a CSV file 
 - Python
 
 ### Data Source:
-OpenWeatherMap. (n.d.). OpenWeatherMap API [API documentation]. OpenWeatherMap. Retrieved December 13, 2024, from https://openweathermap.org/api
-Geoapify. Geoapify API. Retrieved December 13, 2024, from https://apidocs.geoapify.com/docs/places/
+- OpenWeatherMap. (n.d.). OpenWeatherMap API [API documentation]. OpenWeatherMap. Retrieved December 13, 2024, from https://openweathermap.org/api
+- Geoapify. Geoapify API. Retrieved December 13, 2024, from https://apidocs.geoapify.com/docs/places/
 
 ### Details:
 - [Weather Analysis code](https://github.com/cindyd97/Weather_Analysis_Python-API/blob/main/WeatherPy/WeatherPy.ipynb)
