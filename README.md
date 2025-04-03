@@ -10,6 +10,9 @@ This assignment involves creating a python script to visualize the weather of 50
 ### Vacation Recommendation Description:
 This part of the assignment utilizes the city data that was saved to a CSV file in the first part of this assignment. A visual map is created that plots each city in the city dataset and sizes the plots based on humidity. The city data is filtered with parameters specifying ideal weather conditions for humidity, cloudiness, and windspeed. An API call is used to retrieve the nearest resort based on the ideal weather conditions of the filtered data set using the city name and coordinates. Another visual map is created that plots the resorts based on ideal weather conditions showcasing recommended vacation spots to visit.
 
+This ReadME's description is [copyrighted](https://github.com/cindyd97/Work/blob/main/LICENSE). 
+Unauthorized use or reproduction is prohibited.
+
 ### Language:
 - Python
 
